@@ -33,6 +33,7 @@
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
+    "react-redux": "^7.1.0",
     "react-router-dom": "^5.0.1"
   }
 }
