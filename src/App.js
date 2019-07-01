@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import Game from './game';
+import Caculator from './convert-temperature';
 class App extends React.Component {
   render() {
     return (

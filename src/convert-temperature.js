@@ -53,7 +53,6 @@ class TemperatureInput extends React.Component {
     }
 }
 
-// eslint-disable-next-line no-unused-vars
 class Calculator extends React.Component {
     constructor(props) {
         super(props);
@@ -85,3 +84,5 @@ class Calculator extends React.Component {
         );
     }
 }
+
+export default Calculator;
